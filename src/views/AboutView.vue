@@ -11,10 +11,12 @@ const pageTitle = 'About'
       <h1 class="text-3xl font-bold mb-4">About Us</h1>
 
       <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-       
+
         <div class="text-gray-700">
-          <p class="mb-4"><strong></strong> butang butangi lng na ay                  </p>
-          
+          <p class="mb-4"><strong></strong>Name: Jessabel M. Yabo </p>
+          <p class="mb-4"><strong></strong>Birthday: August 29, 2000 </p>
+          <p class="mb-4"><strong></strong>Birthplace: Bangbang Cordova Cebu </p>
+
         </div>
       </div>
     </section>
